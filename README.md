@@ -1,15 +1,25 @@
+![Retro Grid](https://github.com/kowshik76/kowshik76/blob/main/profile-3d-contrib/profile-gitblock.svg)
+
 # 👋 Hey, I'm Jaya Venkata Sai Kowshik Sangada!  
 
 🚀 Aspiring **Full Stack Developer**  
-💡 Passionate about **Web Development, Cloud Computing & Problem-Solving**  
-📌 Currently learning **React.js, Spring Boot & Advanced DSA**  
+💡 Passionate about **Web Development & Problem-Solving**  
+📌 Currently learning **React.js, Node.js & Advanced DSA**  
 📫 Reach me at: **[kowshiksangada@gmail.com](mailto:kowshiksangada@gmail.com)**  
 🌍 From **Visakhapatnam, India**  
 
 ---
 
+## 💡 Quote of the Day:
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Isometric Activity](https://github.com/kowshik76/kowshik76/blob/main/profile-3d-contrib/profile-3d-contrib.svg)
+
+---
+
 ## 📊 GitHub Stats:
 ![Kowshik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kowshik76&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kowshik76&layout=compact&theme=tokyonight)
 
 ---
 
@@ -23,6 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
 ---
 
@@ -30,12 +41,17 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kowshik76&theme=onedark&margin-w=10)
 
 ---
-## 🐍 Snake Game - Contribution Graph:
-![Snake animation](https://github.com/kowshik76/kowshik76/blob/output/github-contribution-grid-snake.svg)
 
+## 🐍 Contribution Snake Game:
+![GitHub Snake Light](https://github.com/kowshik76/kowshik76/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📬 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikowshiksangada/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshiksangada/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kowshik76)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://kowshik76.github.io)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kowshiksangada)  
+
+---
+
