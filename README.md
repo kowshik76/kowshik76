@@ -9,7 +9,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![Kowshik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayaVenkataSaiKowshikSangada&show_icons=true&theme=tokyonight)
+![Kowshik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kowshik76&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -27,15 +27,15 @@
 ---
 
 ## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=JayaVenkataSaiKowshikSangada&theme=onedark&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kowshik76&theme=onedark&margin-w=10)
 
 ---
 
 ## 🐍 Snake Game - Contribution Graph:
-![Snake animation](https://github.com/JayaVenkataSaiKowshikSangada/JayaVenkataSaiKowshikSangada/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kowshik76/kowshik76/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📬 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikowshiksangada/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayaVenkataSaiKowshikSangada)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kowshik76)  
