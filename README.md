@@ -1,4 +1,3 @@
-![Retro Grid](https://github.com/kowshik76/kowshik76/blob/main/profile-3d-contrib/profile-gitblock.svg)
 
 # 👋 Hey, I'm Jaya Venkata Sai Kowshik Sangada!  
 
@@ -40,12 +39,6 @@
 ## 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kowshik76&theme=onedark&margin-w=10)
 
----
-
-## 🐍 Contribution Snake Game:
-![GitHub Snake Light](https://github.com/kowshik76/kowshik76/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📬 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshiksangada/)  
