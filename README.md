@@ -30,9 +30,9 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kowshik76&theme=onedark&margin-w=10)
 
 ---
-
 ## 🐍 Snake Game - Contribution Graph:
 ![Snake animation](https://github.com/kowshik76/kowshik76/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
