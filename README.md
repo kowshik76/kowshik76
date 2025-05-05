@@ -10,9 +10,9 @@
   
  - 🌍 From **Visakhapatnam, India**  
 
-- 🔭 I’m currently working on **EnoteBook-write it EveryWhere**
+- 🔭 I’m currently working on **BlogFinder-Next Js App**
 
-- 🌱 I’m currently learning **React js ,Node Js**
+- 🌱 I’m currently learning **Next js ,Node Js**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
